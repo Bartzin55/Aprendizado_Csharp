@@ -1,0 +1,21 @@
+# Pastas do Visual Studio
+.vs/
+
+# Diretórios de compilação
+bin/
+obj/
+
+# Arquivos temporários e de usuário
+*.user
+*.suo
+*.cache
+*.pdb
+*.log
+
+# Arquivos de backup do Visual Studio
+*.dbmdl
+*.bak
+
+# Outras saídas que não precisam no repositório
+*.tmp
+*.temp
